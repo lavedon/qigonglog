@@ -15,4 +15,9 @@ log:
         duration: 20 Minutes
         note: Tired.  Opening in chest.
 
+      - type: Meditation
+        exercise: Standing Post
+        duration: 3 Minutes
+        note: Arms up
+
 
