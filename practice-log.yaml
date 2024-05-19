@@ -1,0 +1,13 @@
+---
+log:
+  - date: 2024-05-19
+    entries:
+      - type: QiGong
+        exercise: In Person Lesson
+        duration: 60 Minutes
+
+      - type: QiGong
+        exercise: Tiger Plays With Ball
+        duration: 10 Minutes
+
+
