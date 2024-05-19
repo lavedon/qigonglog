@@ -10,4 +10,9 @@ log:
         exercise: Tiger Plays With Ball
         duration: 10 Minutes
 
+      - type: Meditation
+        exercise: Seated meditation
+        duration: 20 Minutes
+        note: Tired.  Opening in chest.
+
 
