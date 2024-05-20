@@ -20,4 +20,12 @@ log:
         duration: 3 Minutes
         note: Arms up
 
+  - date: 2024-05-20
+    entries:
+      - type: QiGong
+        exercise: DVD
+        duration: 35 Minutes
 
+      - type: Meditation
+        exercise: Seated meditation
+        duration: 12 Minutes
