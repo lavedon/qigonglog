@@ -29,3 +29,19 @@ log:
       - type: Meditation
         exercise: Seated meditation
         duration: 12 Minutes
+
+  - date: 2024-05-26
+    entries:
+      - type: Meditation
+        exercise: Seated meditation
+        duration: 15 Minutes
+
+      - type: QiGong
+        exercise: In Person Lesson
+        duration: 60 Minutes
+
+  - date: 2024-05-26
+    entries:
+      - type: QiGong
+        exercise: Tiger Plays with Ball, 6 movements
+        duration: 25 minutes
