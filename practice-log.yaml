@@ -45,3 +45,7 @@ log:
       - type: QiGong
         exercise: Tiger Plays with Ball, 6 movements
         duration: 25 minutes
+
+      - type: Meditation
+        exercise: Seated meditation
+        duration: 20 Minutes
