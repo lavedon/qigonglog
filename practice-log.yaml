@@ -49,3 +49,24 @@ log:
       - type: Meditation
         exercise: Seated meditation
         duration: 20 Minutes
+
+      - type: QiGong
+        exercise: 6 movements
+        duration: 10 Minutes
+
+      - type: Meditation
+        exercise: Seated meditation
+        duration: 10 Minutes
+
+  - date: 2024-05-29
+    entries:
+      - type: QiGong
+        exercise: 6 moves
+        duration: 20 minutes
+
+
+  - date: 2024-05-30
+    entries:
+      - type: QiGong
+        exercise: 6 moves
+        duration: 20 minutes
