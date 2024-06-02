@@ -76,4 +76,8 @@ log:
     entries:
       - type: QiGong
         exercise: 6 moves
-        duration: 30 minutes
+        duration: 45 minutes
+
+      - type: Meditation
+        exercise: Seated meditation
+        duration: 60 Minutes
