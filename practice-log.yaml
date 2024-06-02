@@ -70,3 +70,10 @@ log:
       - type: QiGong
         exercise: 6 moves
         duration: 20 minutes
+
+  
+  - date: 2024-06-02
+    entries:
+      - type: QiGong
+        exercise: 6 moves
+        duration: 30 minutes
